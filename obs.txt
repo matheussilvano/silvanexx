@@ -1,0 +1,4 @@
+copia arquivos: /home/skyline/scripts/generico/multiScripts.sh generico/Generico_Copia_Retornos.sh,&F,{caixa_postal}
+
+
+Site para criação de títulos: https://www.messletters.com/pt/big-text/
